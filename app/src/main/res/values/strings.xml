@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CrudApp</string>
+    <string name="welcome_to_crud">Welcome To CRUD</string>
+    <string name="continue_to_app">Continue To App</string>
 </resources>
