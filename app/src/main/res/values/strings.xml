@@ -7,4 +7,6 @@
     <string name="read">Read</string>
     <string name="crud_app">CRUD APP</string>
     <string name="update">Update</string>
+    <string name="item_name">Item Name</string>
+    <string name="quantity">Quantity</string>
 </resources>
